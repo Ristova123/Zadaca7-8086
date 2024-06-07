@@ -36,7 +36,6 @@ NE_OK: INC SI
 CODE ENDS
  END START 
 ```
-Изглед на стекот: 
 
 ![Screenshot (1)](https://github.com/Ristova123/Zadaca7-8086/blob/main/Zadaca7.1%208086%20code.png)
 ![Screenshot (2)](https://github.com/Ristova123/Zadaca7-8086/blob/main/Zadaca7.2%208086%20code.png)
